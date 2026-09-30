@@ -12,9 +12,9 @@ mandy's corner!
 
 *psych researcher data gremlin. big fan of the internet, othello, and humans. i also skate.*
 
-🌸 sdsu psychology undergrad
-🔬 research volunteer @ JSBCAI, Kappenman Laboratory & CTE (SDSU RF)
-📊 currently wrangling data in R & co-writing manuscripts 
+🌸 sdsu psychology undergrad.
+research volunteer @ JSBCAI, Kappenman Laboratory & CTE (SDSU RF).
+currently wrangling data in R & co-writing manuscripts.
 
 ### my toolkit
 `R` · `html` · `SPSS`
