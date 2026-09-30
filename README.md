@@ -24,6 +24,4 @@ currently wrangling data in R & co-writing manuscripts.
 find me → [amandata.dev](https://amandata.dev)
 
 
-*thanks for stopping by!*
-
 </div>
