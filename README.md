@@ -14,8 +14,7 @@ mandy's corner!
 
 🌸 sdsu psychology undergrad.
 research volunteer @ JSBCAI, Kappenman Laboratory & CTE (SDSU RF).
-currently wrangling data in R & co-writing manuscripts.
-
+currently wrangling data in R & reading papers.
 ### my toolkit
 `R` · `JavaScript` · `LateX` · `html` 
 
