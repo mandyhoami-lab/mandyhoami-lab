@@ -10,7 +10,7 @@ mandy's corner!
 <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUybWJpdTVzc3BwN2doNXRkcjdwbWkycHpicWxoOWF6ZHg1eXp6N2g4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E7KPNdYcrK6LiwsWdo/giphy.gif" width="250">
 
 
-*psych researcher data gremlin. big fan of the internet, othello, and humans. i also skate.*
+🌸 *psych researcher data gremlin. big fan of the internet, othello, and humans. i also skate.*
 
 🌸 sdsu psychology undergrad.
 research volunteer @ JSBCAI, Kappenman Laboratory & CTE (SDSU RF).
