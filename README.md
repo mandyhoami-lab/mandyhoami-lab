@@ -1,6 +1,6 @@
 <div align="center">
 
-mandy's corner!
+## mandy's corner!
 
 [![linkedin](https://img.shields.io/badge/linkedin-ffb6c1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandahoamita/)
 [![github](https://img.shields.io/badge/github-ffb6c1?style=flat-square&logo=github&logoColor=white)](https://github.com/mandyhoami-lab)
