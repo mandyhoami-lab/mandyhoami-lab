@@ -17,7 +17,7 @@ research volunteer @ JSBCAI, Kappenman Laboratory & CTE (SDSU RF).
 currently wrangling data in R & co-writing manuscripts.
 
 ### my toolkit
-`R` · `JavaScript` · `html` · 
+`R` · `JavaScript` · `LateX` · `html` 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=mandyhoami-lab&show_icons=true&theme=rose_pine)
 
