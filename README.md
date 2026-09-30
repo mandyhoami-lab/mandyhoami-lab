@@ -1,1 +1,27 @@
-PGRpdiBhbGlnbj0iY2VudGVyIj4KCm1hbmR5J3MgY29ybmVyIQoKWyFbbGlua2VkaW5dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvbGlua2VkaW4tZmZiNmMxP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289bGlua2VkaW4mbG9nb0NvbG9yPXdoaXRlKV0oaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2FtYW5kYWhvYW1pdGEvKQpbIVtnaXRodWJdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZ2l0aHViLWZmYjZjMT9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWdpdGh1YiZsb2dvQ29sb3I9d2hpdGUpXShodHRwczovL2dpdGh1Yi5jb20vbWFuZHlob2FtaS1sYWIpClshW3dlYnNpdGVdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2Uvd2Vic2l0ZS1mZmI2YzE/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1nb29nbGUtY2hyb21lJmxvZ29Db2xvcj13aGl0ZSldKGh0dHBzOi8vYW1hbmRhdGEuZGV2KQpbIVtvcmNpZF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9vcmNpZC0wMDA5LS0wMDA1LS0zMTQ1LS0yNjEwLWE2Y2UzOT9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPW9yY2lkJmxvZ29Db2xvcj13aGl0ZSldKGh0dHBzOi8vb3JjaWQub3JnLzAwMDktMDAwNS0zMTQ1LTI2MTApCgoKPGltZyBzcmM9Imh0dHBzOi8vbWVkaWE0LmdpcGh5LmNvbS9tZWRpYS92MS5ZMmxrUFRaak1EbGlPVFV5YldKcGRUVnpjM0J3TjJkb05YUmtjamR3YldreWNIcGljV3hvT1dGNlpIZzFlWHA2TjJnNGRpWmxjRDEyTVY5cGJuUmxjbTVoYkY5bmFXWmZZbmxmYVdRbVkzUTlady9FN0tQTmRZY3JLNkxpd3NXZG8vZ2lwaHkuZ2lmIiB3aWR0aD0iMjUwIj4KCgrwn4y4ICpwc3ljaCByZXNlYXJjaGVyIGRhdGEgZ3JlbWxpbi4gYmlnIGZhbiBvZiB0aGUgaW50ZXJuZXQsIG90aGVsbG8sIGFuZCBodW1hbnMuIGkgYWxzbyBza2F0ZS4qCgrwn4y4IHNkc3UgcHN5Y2hvbG9neSB1bmRlcmdyYWQuCnJlc2VhcmNoIHZvbHVudGVlciBAIEpTQkNBSSwgS2FwcGVubWFuIExhYm9yYXRvcnkgJiBDVEUgKFNEU1UgUkYpLgpjdXJyZW50bHkgd3JhbmdsaW5nIGRhdGEgaW4gUiAmIHJlYWRpbmcgcGFwZXJzLgojIyMgbXkgdG9vbGtpdApgUmAgwrcgYEphdmFTY3JpcHRgIMK3IGBMYXRlWGAgwrcgYGh0bWxgIAoKIVtzdGF0c10oaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpP3VzZXJuYW1lPW1hbmR5aG9hbWktbGFiJnNob3dfaWNvbnM9dHJ1ZSZ0aGVtZT1yb3NlX3BpbmUpCgpmaW5kIG1lIOKGkiBbYW1hbmRhdGEuZGV2XShodHRwczovL2FtYW5kYXRhLmRldikKCgo8L2Rpdj4K
+<div align="center">
+
+mandy's corner!
+
+[![linkedin](https://img.shields.io/badge/linkedin-ffb6c1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandahoamita/)
+[![github](https://img.shields.io/badge/github-ffb6c1?style=flat-square&logo=github&logoColor=white)](https://github.com/mandyhoami-lab)
+[![website](https://img.shields.io/badge/website-ffb6c1?style=flat-square&logo=google-chrome&logoColor=white)](https://amandata.dev)
+[![orcid](https://img.shields.io/badge/orcid-0009--0005--3145--2610-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-3145-2610)
+
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUybWJpdTVzc3BwN2doNXRkcjdwbWkycHpicWxoOWF6ZHg1eXp6N2g4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E7KPNdYcrK6LiwsWdo/giphy.gif" width="250">
+
+
+🌸 *psych researcher data gremlin. big fan of the internet, othello, and humans. i also skate.*
+
+🌸 sdsu psychology undergrad.
+research volunteer @ JSBCAI, Kappenman Laboratory & CTE (SDSU RF).
+currently wrangling data in R & reading papers.
+### my toolkit
+`R` · `JavaScript` · `LateX` · `html` 
+
+![stats](https://github-readme-stats.vercel.app/api?username=mandyhoami-lab&show_icons=true&theme=rose_pine)
+
+find me → [amandata.dev](https://amandata.dev)
+
+
+</div>
