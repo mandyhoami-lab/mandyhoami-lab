@@ -15,7 +15,7 @@
 🌸 sdsu psychology undergrad.
 research volunteer @ JSBCAI, Kappenman Laboratory & CTE (SDSU RF).
 currently wrangling data in R & reading papers.
-### my toolkit
+### toolkit
 `R` · `JavaScript` · `LateX` · `html` 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=mandyhoami-lab&show_icons=true&theme=rose_pine)
