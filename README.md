@@ -21,6 +21,8 @@ currently wrangling data in R & reading papers.
 
 ![stats](https://github-readme-stats.vercel.app/api?username=mandyhoami-lab&show_icons=true&theme=rose_pine)
 
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandyhoami-lab&layout=compact&theme=rose_pine&title_color=ffb6c1)
+
 find me → [amandata.dev](https://amandata.dev)
 
 
